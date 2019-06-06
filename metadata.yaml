@@ -1,11 +1,16 @@
 _repo: History-of-Denmark-Sweden-and-Norway-Vol-II-of-2_59657
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59657-h/images/cover.jpg
 creator:
   author:
     agent_name: Dunham, S. A. (Samuel Astley)
     gutenberg_agent_id: '50528'
     url: http://www.gutenberg.org/2009/agents/50528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59657#History-of-Denmark-Sweden-and-Norway-Vol-II-of-2
 gutenberg_issued: '2019-06-02'
 gutenberg_type: Text
 identifiers:
